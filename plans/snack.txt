@@ -1,0 +1,14 @@
+Add auto commit to the main server files
+make auto commit work on restart so it autocommits server when its restarting or offline.
+change perms in minecraft so the server looks more profecinal
+
+
+long time goals
+
+
+make a connection between multiple servers so one main hub can connect to multiple diffrent servers
+upgrade the hardware of the server to 32gb of ram instead of 8gb
+improve github integration with the server so changes can be made on github and auto download to the server
+improve on playerbase
+improve on modes and make more fun modes
+home made plugins
