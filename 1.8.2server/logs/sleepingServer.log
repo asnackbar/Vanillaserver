@@ -176,12 +176,3 @@
 2022-05-02 21:24:28 info: Prince [Cheeky_Devito.play] has come, time to wake up. 
 2022-05-02 21:24:28 info: Sending best regards ...Waking server up, come back in a minute... 
 2022-05-02 21:24:29 info: [Cheeky_Devito] The prince is gone, for now 
-2022-05-02 21:24:29 info: Cleaning up the place. 
-2022-05-02 21:24:29 info: [McJava] Closing 
-2022-05-02 21:24:29 info: [McJava] Closed 
-2022-05-02 21:24:29 info: [BedRock] Closing 
-2022-05-02 21:24:29 info: [BedRock] Socket Closed 
-2022-05-02 21:24:29 info: ----------- Starting Minecraft : java -Xmx2028M -Xms1024M -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.readTimeout=180 -jar server.jar nogui -----------  
-2022-05-02 22:48:48 info: ----------- Minecraft stopped ----------- 
-2022-05-02 22:48:48 info: ...Time to kill me if you want... 
-2022-05-02 22:48:51 info: SIGINT signal received. 
