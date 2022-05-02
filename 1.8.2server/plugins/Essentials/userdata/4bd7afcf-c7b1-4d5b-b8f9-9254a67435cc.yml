@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1651416475509
-  login: 1651519580923
+  logout: 1651524879396
+  login: 1651524874492
 money: '0'
 lastlocation:
   world: 227edbae-ba17-4ee7-b8e1-eda943735edc
@@ -30,9 +30,9 @@ lastlocation:
 logoutlocation:
   world: 227edbae-ba17-4ee7-b8e1-eda943735edc
   world-name: world
-  x: 4308.691625633646
-  y: 8.0
-  z: -4990.300000011921
-  yaw: -138.24853515625
-  pitch: 3.8999431133270264
+  x: 4300.18307028777
+  y: -4.0
+  z: -4993.2697958300805
+  yaw: -59.01934051513672
+  pitch: 84.9000015258789
 last-account-name: Cheeky_Devito
