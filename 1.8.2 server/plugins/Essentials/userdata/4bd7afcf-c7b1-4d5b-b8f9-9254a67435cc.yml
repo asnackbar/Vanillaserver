@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 51.171.241.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1651416475509
+  login: 1651519580923
+money: '0'
+lastlocation:
+  world: 227edbae-ba17-4ee7-b8e1-eda943735edc
+  world-name: world
+  x: 4269.280904551513
+  y: 79.76636799395752
+  z: -5074.274924379487
+  yaw: -37.5
+  pitch: 22.650022506713867
+logoutlocation:
+  world: 227edbae-ba17-4ee7-b8e1-eda943735edc
+  world-name: world
+  x: 4308.691625633646
+  y: 8.0
+  z: -4990.300000011921
+  yaw: -138.24853515625
+  pitch: 3.8999431133270264
+last-account-name: Cheeky_Devito
