@@ -806,3 +806,6 @@ java.lang.NoClassDefFoundError: Could not initialize class net.essentialsx.dep.c
 	at net.essentialsx.dep.com.neovisionaries.ws.client.ReadingThread.runMain(ReadingThread.java:64) [EssentialsXDiscord-2.19.4.jar:?]
 	at net.essentialsx.dep.com.neovisionaries.ws.client.WebSocketThread.run(WebSocketThread.java:45) [EssentialsXDiscord-2.19.4.jar:?]
 [22:03:04] [Server thread/INFO]: [Server] snack is still tha best
+[22:12:32] [Server thread/INFO]: CONSOLE issued server command: /list 
+[22:12:32] [Server thread/INFO]: [0;33;22mThere are [0;31;1m1[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[22:12:32] [Server thread/INFO]: [0;33;22mdefault[m: Cheeky_Devito[0;37;1m[m

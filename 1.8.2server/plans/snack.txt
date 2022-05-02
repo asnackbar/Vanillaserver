@@ -12,3 +12,5 @@ improve github integration with the server so changes can be made on github and 
 improve on playerbase
 improve on modes and make more fun modes
 home made plugins
+fix autocommit server
+

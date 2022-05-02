@@ -3,12 +3,6 @@
 # gitwait - watch file and git commit all changes as they happen
 #
 
-while true; do
-
-  inotifywait -qq -e CLOSE_WRITE 1.8.2server
-  inotifywait -qq -e CLOSE_WRITE plans
-
-  git commit -a -m 'autocommit on change'
-  git push
-
-done
+<<branch>> = https://github.com/asnackbar/Vanillaserver.git
+<<file>> = 1.8.2server
+inotifywait -q -m -e CLOSE_WRITE --format="git commit -m 'auto commit' %w && git push origin <<branch>>" <<file>> | bas
