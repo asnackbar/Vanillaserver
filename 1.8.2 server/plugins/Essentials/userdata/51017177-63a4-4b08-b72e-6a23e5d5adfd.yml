@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 158.37.240.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1651407283658
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1651407328359
+  login: 1651407135852
+money: '0'
+last-account-name: FrogMixer
+logoutlocation:
+  world: 227edbae-ba17-4ee7-b8e1-eda943735edc
+  world-name: world
+  x: 4286.755205930555
+  y: 91.0
+  z: -5102.808191305131
+  yaw: 21.747835159301758
+  pitch: 22.049753189086914
+lastlocation:
+  world: 227edbae-ba17-4ee7-b8e1-eda943735edc
+  world-name: world
+  x: 4267.506583252276
+  y: 96.23016772462944
+  z: -5059.477274697351
+  yaw: -114.35296630859375
+  pitch: 45.449127197265625
